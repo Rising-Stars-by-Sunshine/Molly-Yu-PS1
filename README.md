@@ -1,6 +1,6 @@
 # # Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
 ## Project information
-- **Author**: [First Name][Last Name], [Major], [Class], Duke Kunshan University
+- **Author**: Molly Yu, Poliecon, 2023, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set No. or Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
 - **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
@@ -26,6 +26,11 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ### Model
 - Game Environment
+
+
+
+
+
 - Solution Concept
 - Evaluations: e.g. efficiency and fairness
 

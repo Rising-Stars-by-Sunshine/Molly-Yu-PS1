@@ -38,6 +38,7 @@
 
 ### More about the Author
 - headshot
+https://github.com/Rising-Stars-by-Sunshine/Molly-Yu-PS1/blob/main/table.png
 - self-introduction
 
 

@@ -39,10 +39,7 @@
 ### More about the Author
 - headshot
 - self-introduction
-- Final reflections 
-  - intellectual growth
-  - professional growth
-  - living a purposeful life
+
 
 ### References
 

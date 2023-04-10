@@ -50,7 +50,7 @@ People will predict others’ behavior using the previous decisions that others 
 
 ### More about the Author
 - headshot
-![https://github.com/Rising-Stars-by-Sunshine/Molly-Yu-PS1/blob/main/spotlight/750_650%E5%A4%B4%E5%83%8F.png] (image.jpg)
+![] (https://github.com/Rising-Stars-by-Sunshine/Molly-Yu-PS1/blob/main/spotlight/750_650%E5%A4%B4%E5%83%8F.png)
 - self-introduction
 Senior at Duke Kunshan Univirsity, has an interest in econ, finance, behavior science. Now trying hard to learn CS.
 

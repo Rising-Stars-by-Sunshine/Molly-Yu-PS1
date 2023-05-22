@@ -37,16 +37,32 @@ The welfare of the two players in total will improve, because there are two roun
 
 ### Spotlight
 Behavioral experimental research paper: “Experiments based on Berg game about trust”
+The experimental setup: Berg game was conducted in different classrooms with participants taking on the roles of investors and trustees. The experiment involved a single round, where investors had a starting capital that they decided whether or not to invest, while trustees received three times the amount sent by the investors and could choose to return everything, part, or nothing. The payment function of the game was determined by the participants' decisions, and their final remuneration corresponded to the money they had at the end.
 
-What research question does the behavioral experimental research intend to address? 
-What is the relation between the amount sent by an investor and the initial capital available, and returned trust from an anonymous?
+Research Question:
+The behavioral experimental research intends to address the relationship between the amount sent by an investor and the initial capital available, and the returned trust from an anonymous trustee in the Berg game. By exploring this relationship, the study seeks to understand how the initial capital influences investment decisions and how trust is reciprocated in economic interactions.
+The experimental economy provides a controlled environment to observe patterns of behavior and evaluate the predictions of economic theoretical models. Experimental economics, as a tool, allows researchers to study human behavior in laboratory experiments and assess the applicability of economic theories to real-world scenarios. In this case, the Berg game serves as a means to investigate trust-related behavior and its underlying mechanisms.
 
-How does behavior in the experiments differ from backward induction? 
-The investors increased the second investment based on the first round return, instead of decrease the investment because they know the other player can choose not to give the money back.
+Differences from Backward Induction:
+In contrast to the predictions of backward induction, the behavior observed in the experiments based on the Berg game deviates from the expected pattern. Rather than decreasing their investment in subsequent rounds due to the possibility of non-reciprocation, the investors in the game actually increase their second investment based on the return they received in the first round.
+This behavior suggests that the participants take into account the observed behavior of the trustee from the first round. They exhibit a level of trust and expect reciprocity based on the trustee's past actions. This departure from backward induction demonstrates the importance of incorporating social and psychological factors into understanding decision-making in trust games.
 
-What is the behavioral (e.g., psychological, social) foundation that underpins the observed behavior?
-People will predict others’ behavior using the previous decisions that others made. In this paper, the investors “learn” the return rate of the students from the first round, and expect that would be similar in the second round. 
+Behavioral Foundation:
+The observed behavior in the Berg game experiments is underpinned by various behavioral foundations, such as the use of past behavior to predict future behavior. Participants "learn" from the return rate of the students (trustees) in the first round and form expectations about similar behavior in subsequent rounds. This reliance on past behavior and the expectation of its continuity is consistent with the concept of "recency bias," where recent events heavily influence decision-making.
+Furthermore, the study acknowledges that trust, reciprocity, and social norms play important roles in shaping behavior. The investors' decision to send a significant portion of their available capital reflects a certain level of trust in the trustee and an expectation of reciprocity. Similarly, the trustees may feel motivated to reciprocate the trust placed in them by returning a portion of the received amount.
 
+Reinforcement learning paper: "Multi-Agent Trust Evaluation Model based on Reinforcement Learning"
+
+Game enviroment:
+The game environment mentioned in the paper is a harvest game. In this game, the goal is to collect apples represented by green pixels. Different agents are represented by pixels of different colors, and the growth rate of apples varies across the map based on the spatial distribution of uncollected apples. The more apples are nearby, the higher the apple growth rate in that area. If all nearby apples are collected, no new apples will grow. The game is reset to its initial state after a few time steps when there are no new apples to collect. The dilemma in this game is that agents may choose to collect the surrounding apples for their short-term interests, but doing so may lead to permanent depletion of local resources and a reduction in long-term benefits.
+
+Learning algorithm:
+The learning algorithm used in the proposed trust evaluation model is based on multi-agent reinforcement learning (MARL). The model evaluates the trustworthiness of the target agent using direct trust and reputation. Direct trust is obtained from the historical interaction of agents, while reputation is a comprehensive evaluation given by agents with higher status in the system. The model introduces an agent with a manager identity to evaluate the overall reputation of ordinary agents in the environment.
+
+The paper also proposes a trust-based reward mechanism in MARL. The agent rewards are divided into environmental rewards and trust rewards. Trust rewards are obtained through trust evaluation values, which drive the agents to reach a cooperative state and obtain higher long-term rewards. By incorporating trust evaluation and trust-based rewards, the model aims to promote cooperation among agents and avoid social dilemmas where agents act for short-term benefits that are detrimental to long-term benefits.
+
+Inspirationson on building trust among humans: 
+I found that paying more attention on fairness might help on building trust on humans. Sometimes players care more about the fairness than the payoff. Fairness is not just about equal outcomes but also about equitable opportunities and treatment. Different individuals may have varying needs, circumstances, and capabilities, and fairness requires considering these factors when making decisions or allocating resources. Striving for fairness in a comprehensive and inclusive manner helps create grow trust.
 
 ### More about the Author
 - headshot

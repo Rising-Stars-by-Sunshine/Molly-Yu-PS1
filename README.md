@@ -66,7 +66,7 @@ I found that paying more attention on fairness might help on building trust on h
 
 ### More about the Author
 - headshot
-![](https://github.com/Rising-Stars-by-Sunshine/Molly-Yu-PS1/blob/main/spotlight/headshot.png)
+![https://github.com/Rising-Stars-by-Sunshine/Molly-Yu-PS1/blob/main/spotlight/headshot.png]()
 - self-introduction
 Senior at Duke Kunshan Univirsity, has an interest in econ, finance, behavior science. Now trying hard to learn CS.
 
